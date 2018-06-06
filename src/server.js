@@ -1,8 +1,7 @@
 const express = require("express");
-const bodyParser = require("body-parser");
+const bodyParser = require("body-parser"); 
 const BlockChain = require("./blockChain");
 const GenesisBlock = require("./genesisBlock");
-
 
 const PORT = 7894;
 
